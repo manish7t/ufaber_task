@@ -1,4 +1,4 @@
-**Requirements:** 
+**Requirements:**   
 1.Python3.7+   
 2.Django  
 3.DRF  
