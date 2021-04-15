@@ -1,0 +1,7 @@
+django
+djangorestframework
+djangorestframework-jwt
+markdown
+django-filter
+djangorestframework-simplejwt
+
